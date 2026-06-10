@@ -144,3 +144,11 @@ Administrators can:
 Pull requests, suggestions, and improvements are welcome.
 
 Feel free to fork the project and adapt it to your own needs.
+
+---
+
+## AI-Assisted Development
+
+This project was developed with the assistance of AI tools for code generation and implementation.
+
+The architecture, integration, testing, and final validation remain under human supervision.
