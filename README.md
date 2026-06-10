@@ -115,6 +115,10 @@ Access the application and start chatting with your Ollama models.
 
 ![Setup](docs/setup.png)
 
+### Admin Interface
+
+![Setup](docs/admin.png)
+
 ---
 
 ## Security Notes
